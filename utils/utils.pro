@@ -9,7 +9,6 @@ SUBDIRS += common \
            dumpsmf \
            dumpwrk \
            test-rt \
-           vpiano \
            soundcanvas
 
 linux* {
