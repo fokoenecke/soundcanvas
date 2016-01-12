@@ -1,0 +1,10 @@
+-I/home/ole/testg/drumstick-1.0.2/library/include
+-I/home/ole/testg/drumstick-1.0.2/library
+-I/home/ole/testg/drumstick-1.0.2/library/rt-backends/alsa-in
+-I/home/ole/testg/drumstick-1.0.2/build/library/rt-backends/alsa-in
+-DVERSION=1.0.2
+-DRTKIT_SUPPORT
+-DQT_PLUGIN
+-o
+/home/ole/testg/drumstick-1.0.2/build/library/rt-backends/alsa-in/__/__/include/moc_rtmidioutput.cpp
+/home/ole/testg/drumstick-1.0.2/library/include/rtmidioutput.h

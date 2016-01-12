@@ -1,0 +1,9 @@
+-I/home/ole/testg/drumstick-1.0.2/library/include
+-I/home/ole/testg/drumstick-1.0.2/library
+-I/home/ole/testg/drumstick-1.0.2/library/rt
+-I/home/ole/testg/drumstick-1.0.2/build/library/rt
+-DVERSION=1.0.2
+-DRTKIT_SUPPORT
+-o
+/home/ole/testg/drumstick-1.0.2/build/library/rt/__/include/moc_rtmidioutput.cpp
+/home/ole/testg/drumstick-1.0.2/library/include/rtmidioutput.h

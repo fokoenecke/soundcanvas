@@ -1,0 +1,11 @@
+-I/home/ole/testg/drumstick-1.0.2/library/include
+-I/home/ole/testg/drumstick-1.0.2/library
+-I/usr/include/alsa
+-I/usr/include
+-I/home/ole/testg/drumstick-1.0.2/library/alsa
+-I/home/ole/testg/drumstick-1.0.2/build/library/alsa
+-DVERSION=1.0.2
+-DRTKIT_SUPPORT
+-o
+/home/ole/testg/drumstick-1.0.2/build/library/alsa/__/include/moc_alsaqueue.cpp
+/home/ole/testg/drumstick-1.0.2/library/include/alsaqueue.h

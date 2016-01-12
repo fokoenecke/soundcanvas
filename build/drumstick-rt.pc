@@ -1,0 +1,11 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${prefix}/lib64
+includedir=${prefix}/include
+
+Name: drumstick-rt
+Version: 1.0.2
+Description: MIDI Realtime Library for Qt5
+URL: http://sourceforge.net/projects/drumstick
+Libs: -L${libdir} -ldrumstick-rt
+Cflags: -I${includedir}

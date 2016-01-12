@@ -1,0 +1,10 @@
+-I/home/ole/testg/drumstick-1.0.2/library/include
+-I/home/ole/testg/drumstick-1.0.2/library
+-I/home/ole/testg/drumstick-1.0.2/library/rt-backends/oss-out
+-I/home/ole/testg/drumstick-1.0.2/build/library/rt-backends/oss-out
+-DVERSION=1.0.2
+-DRTKIT_SUPPORT
+-DQT_PLUGIN
+-o
+/home/ole/testg/drumstick-1.0.2/build/library/rt-backends/oss-out/moc_ossoutput.cpp
+/home/ole/testg/drumstick-1.0.2/library/rt-backends/oss-out/ossoutput.h

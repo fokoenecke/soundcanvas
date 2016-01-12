@@ -1,0 +1,9 @@
+-I/home/ole/testg/drumstick-1.0.2/library/include
+-I/home/ole/testg/drumstick-1.0.2/library
+-I/home/ole/testg/drumstick-1.0.2/library/file
+-I/home/ole/testg/drumstick-1.0.2/build/library/file
+-DVERSION=1.0.2
+-DRTKIT_SUPPORT
+-o
+/home/ole/testg/drumstick-1.0.2/build/library/file/__/include/moc_qwrk.cpp
+/home/ole/testg/drumstick-1.0.2/library/include/qwrk.h

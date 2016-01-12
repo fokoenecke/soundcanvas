@@ -1,0 +1,12 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${prefix}/lib64
+includedir=${prefix}/include
+
+Name: drumstick-alsa
+Version: 1.0.2
+Description: MIDI Sequencer C++ Library Bindings for ALSA and Qt5
+URL: http://sourceforge.net/projects/drumstick
+Requires: alsa >= 1.0.0, Qt5Core >= 5.0, Qt5DBus >= 5.0
+Libs: -L${libdir} -ldrumstick-alsa
+Cflags: -I${includedir}

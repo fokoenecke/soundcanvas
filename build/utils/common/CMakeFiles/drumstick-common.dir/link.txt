@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../../lib/libdrumstick-common.a  CMakeFiles/drumstick-common.dir/cmdlineargs.cpp.o
+/usr/bin/ranlib ../../lib/libdrumstick-common.a
